@@ -1,0 +1,12 @@
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\bin\Debug\EntityFramework.dll
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\bin\Debug\EntityFramework.xml
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\obj\Debug\EntityLa.DA06A3F2.Up2Date
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

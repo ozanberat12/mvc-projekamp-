@@ -1,0 +1,17 @@
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\bin\Debug\net8.0\DataAccsessLayer.deps.json
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\bin\Debug\net8.0\DataAccsessLayer.runtimeconfig.json
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\bin\Debug\net8.0\DataAccsessLayer.dll
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\bin\Debug\net8.0\DataAccsessLayer.pdb
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\DataAccsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\DataAccsessLayer.AssemblyInfoInputs.cache
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\DataAccsessLayer.AssemblyInfo.cs
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\DataAccs.D37D1FE3.Up2Date
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\DataAccsessLayer.dll
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\refint\DataAccsessLayer.dll
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\DataAccsessLayer.pdb
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\DataAccsessLayer.genruntimeconfig.cache
+C:\Users\ozenb\mvc proje\WebApplication1\DataAccsessLayer\obj\Debug\net8.0\ref\DataAccsessLayer.dll

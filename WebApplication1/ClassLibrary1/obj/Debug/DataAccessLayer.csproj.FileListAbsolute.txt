@@ -1,0 +1,17 @@
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary2.dll
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary2.pdb
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary2.dll.config
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.mig1.resources
+C:\Users\ozenb\mvc proje\WebApplication1\ClassLibrary1\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
